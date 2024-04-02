@@ -1,0 +1,4 @@
+{
+    "name": "Intro Computer Science",
+    "image": "ghcr.io/thacher-cs/devcontainer-introcs:latest"
+}
